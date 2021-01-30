@@ -13,7 +13,7 @@
 
 <b>LOCAL</b>
 <ul>
-	<li>1: Clonar este repositorio</li>
+	<li>1: Clonar este repositorio con git clone <link del repositorio></li>
 	<li>2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env)</li>
 	<li>3: Correr los siguientes comandos:
 		<ul>
