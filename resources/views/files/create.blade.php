@@ -32,7 +32,7 @@
           </div>
           <div class="form-group">
               <label for="upload">
-                <span class="btn btn-info" aria-hidden="true">Archivo (Excel)</span>
+                <span class="btn btn-info" aria-hidden="true">Archivo (Pdf)</span>
                 <input type="file" id="upload" name="file" style="display:none">
               </label>
           </div>
