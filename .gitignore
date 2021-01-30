@@ -10,8 +10,6 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 
-*.meta.*
-_ide_*
 
 
 
