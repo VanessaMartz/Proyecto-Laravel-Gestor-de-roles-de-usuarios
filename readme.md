@@ -17,7 +17,7 @@
 	<li>2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env)</li>
 	<li>3: Correr los siguientes comandos:
 		<ul>
-			<li> composer install</li>
+			<li> composer install o composer update</li>
 			<li> php artisan storage:link</li>
 			<li> php artisan migrate</li>
 			<li> php artisan db:seed </li>
